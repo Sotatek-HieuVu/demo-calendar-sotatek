@@ -4,7 +4,7 @@ Hi guys. This is a demo for Google Calendar API using NodeJs. I tried with both 
 
 ### Step 1: Clone this demo
 ```bash
-$ git clone
+$ git clone https://github.com/Sotatek-HieuVu/demo-calendar-sotatek.git
 ```
 
 ### Step 2: Generate node_modules/
